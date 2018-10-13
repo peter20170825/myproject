@@ -1,1 +1,2 @@
-This file contains codes written in javascript
+This file does not contains codes written in javascript.
+i shall create a new file that will contain javascript code
